@@ -1,4 +1,4 @@
-Havalimanı Yolcu Memnuniyeti Analizi Projesi
+**Havalimanı Yolcu Memnuniyeti Analizi Projesi**
 
 Bu proje, bir havayolu şirketinin yolcu memnuniyetini anlamak ve etkileyen faktörleri belirlemek için müşteri verileri üzerinde kapsamlı veri işleme ve keşifsel veri analizi (EDA) yapmayı amaçlamaktadır. Proje kapsamında, gelecekteki makine öğrenimi modellemeleri için bir temel oluşturulmaktadır.
 
@@ -77,3 +77,20 @@ Veri seti aşağıdaki gibi sütunları içermektedir:
 - Arrival Delay in Minutes: Varışta dakika cinsinden gecikme
 
 - satisfaction: YHavayolu memnuniyet seviyesi (Memnuniyet, nötr veya memnuniyetsizlik)
+
+Kurulum
+
+Projeyi çalıştırmak için aşağıdaki kütüphanelerin yüklü olması gerekmektedir:
+
+- pandas
+
+- numpy
+
+- matplotlib
+
+- seaborn
+
+Kullanım
+
+Projeyi çalıştırmak için 1_FinalCase_Airline.ipynb Jupyter Notebook dosyasını açabilirsiniz. 
+Kod hücrelerini sırasıyla çalıştırarak veri işleme ve EDA adımlarını takip edebilirsiniz.
