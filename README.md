@@ -98,21 +98,21 @@ Kod hücrelerini sırasıyla çalıştırarak veri işleme ve EDA adımlarını 
 Analiz ve Bulgular
 Bu projede aşağıdaki analiz adımları uygulanmıştır:
 
-Veri Yükleme ve Genel Bakış: Veri setinin ilk bakışı, eksik değerlerin kontrolü ve temel istatistiksel özetler.
+- Veri Yükleme ve Genel Bakış: Veri setinin ilk bakışı, eksik değerlerin kontrolü ve temel istatistiksel özetler.
 
-Eksik Değerlerin Analizi: Varış gecikmesi gibi eksik değer içeren sütunların analizi ve kullanılabilecek yöntemler
+- Eksik Değerlerin Analizi: Varış gecikmesi gibi eksik değer içeren sütunların analizi ve kullanılabilecek yöntemler
 
-Kategorik Değişken Analizi: Kategorik değişkenlerin dağılımları ve memnuniyet ile ilişkileri.
+- Kategorik Değişken Analizi: Kategorik değişkenlerin dağılımları ve memnuniyet ile ilişkileri.
 
-Sayısal Değişken Analizi: Sayısal değişkenlerin dağılımları ve korelasyonları.
+- Sayısal Değişken Analizi: Sayısal değişkenlerin dağılımları ve korelasyonları.
 
-Aykırı Değer Analizi: Flight Distance, Checkin service, Departure Delay in Minutes ve Arrival Delay in Minutes sütunlarının aykırı değerlerinin analizleri
+- Aykırı Değer Analizi: Flight Distance, Checkin service, Departure Delay in Minutes ve Arrival Delay in Minutes sütunlarının aykırı değerlerinin analizleri
 
 Bu analizler sonucunda, yolcu memnuniyetini etkileyen temel faktörler hakkında önemli içgörüler elde edilmiştir. Örneğin, bazı hizmet kategorilerinin memnuniyet üzerinde daha güçlü bir etkiye sahip olduğu gözlemlenebilir.
 
 Sonraki Adımlar
 Bu projenin mevcut durumu, gelecekteki makine öğrenimi modellemesi için sağlam bir temel oluşturmaktadır. Sonraki adımlar şunları içerebilir:
 
-Model Oluşturma: Yolcu memnuniyetini tahmin etmek için çeşitli sınıflandırma algoritmalarının (örneğin, Lojistik Regresyon, Random Forest, XGBoost, LightGBM, CatBoost) uygulanması.
+- Model Oluşturma: Yolcu memnuniyetini tahmin etmek için çeşitli sınıflandırma algoritmalarının (örneğin, Lojistik Regresyon, Random Forest, XGBoost, LightGBM, CatBoost) uygulanması.
 
-Model Değerlendirme: Modellerin performansını değerlendirmek ve en iyi modeli seçmek.
+- Model Değerlendirme: Modellerin performansını değerlendirmek ve en iyi modeli seçmek.
