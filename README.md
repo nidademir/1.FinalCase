@@ -96,6 +96,7 @@ Projeyi çalıştırmak için 1_FinalCase_Airline.ipynb Jupyter Notebook dosyas�
 Kod hücrelerini sırasıyla çalıştırarak veri işleme ve EDA adımlarını takip edebilirsiniz.
 
 Analiz ve Bulgular
+
 Bu projede aşağıdaki analiz adımları uygulanmıştır:
 
 - Veri Yükleme ve Genel Bakış: Veri setinin ilk bakışı, eksik değerlerin kontrolü ve temel istatistiksel özetler.
@@ -111,6 +112,7 @@ Bu projede aşağıdaki analiz adımları uygulanmıştır:
 Bu analizler sonucunda, yolcu memnuniyetini etkileyen temel faktörler hakkında önemli içgörüler elde edilmiştir. Örneğin, bazı hizmet kategorilerinin memnuniyet üzerinde daha güçlü bir etkiye sahip olduğu gözlemlenebilir.
 
 Sonraki Adımlar
+
 Bu projenin mevcut durumu, gelecekteki makine öğrenimi modellemesi için sağlam bir temel oluşturmaktadır. Sonraki adımlar şunları içerebilir:
 
 - Model Oluşturma: Yolcu memnuniyetini tahmin etmek için çeşitli sınıflandırma algoritmalarının (örneğin, Lojistik Regresyon, Random Forest, XGBoost, LightGBM, CatBoost) uygulanması.
